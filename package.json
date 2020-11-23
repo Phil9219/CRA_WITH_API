@@ -1,0 +1,19 @@
+{
+  "name": "cra_with_api",
+  "version": "1.0.0",
+  "description": "Boilerplate for Create-React-App with an Express.js API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Phil9219/CRA_WITH_API.git"
+  },
+  "author": "Philipp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Phil9219/CRA_WITH_API/issues"
+  },
+  "homepage": "https://github.com/Phil9219/CRA_WITH_API#readme"
+}
